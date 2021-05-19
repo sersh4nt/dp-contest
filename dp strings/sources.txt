@@ -1,0 +1,9 @@
+A - https://codeforces.com/problemset/problem/1178/B
+B - https://codeforces.com/problemset/problem/1466/C
+Ñ - https://codeforces.com/problemset/problem/706/C
+D - https://codeforces.com/problemset/problem/1446/B
+E - https://codeforces.com/problemset/problem/137/D
+F - https://codeforces.com/problemset/problem/1336/C
+G - https://codeforces.com/problemset/problem/1015/F
+H - https://codeforces.com/problemset/problem/825/F
+I - https://codeforces.com/problemset/problem/477/D
