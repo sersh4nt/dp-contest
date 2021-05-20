@@ -1,4 +1,4 @@
-TASK = 'A'
+TASK = 'C'
 FOLDER = 'dp general'
 
 with open(f'{FOLDER}/{TASK}/{TASK}.txt', 'r') as f:
@@ -30,4 +30,6 @@ while i < len(lines):
             for t in ans:
                 f.write(t)
         cnt += 1
+        test.clear()
+        ans.clear()
     i += 1
