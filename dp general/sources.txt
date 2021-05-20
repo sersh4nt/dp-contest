@@ -1,0 +1,10 @@
+A - https://codeforces.com/contest/331/problem/C2
+B - https://codeforces.com/problemset/problem/1195/C
+C - https://codeforces.com/problemset/problem/455/A
+D - https://codeforces.com/problemset/problem/1234/C
+E - https://codeforces.com/problemset/problem/191/A
+F - https://codeforces.com/problemset/problem/474/D
+G - https://codeforces.com/problemset/problem/1221/D
+H - https://codeforces.com/problemset/problem/478/D
+I - https://codeforces.com/problemset/problem/922/E
+J - https://codeforces.com/problemset/problem/771/D
