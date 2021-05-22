@@ -1,4 +1,4 @@
-TASK = 'C'
+TASK = 'F'
 FOLDER = 'dp general'
 
 with open(f'{FOLDER}/{TASK}/{TASK}.txt', 'r') as f:
